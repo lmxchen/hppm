@@ -3,7 +3,6 @@
 // NeoHWSerial is optional (uncomment to use) and available from 
 // https://github.com/SlashDevin/NeoHWSerial/tree/master/1.6.5r2
 // without it you get 31i/s (instructions per sec) on Mega2560
-//#include <NeoHWSerial.h>
 // If you are using NeoHWSerial there are three modes, define one of them
 //#define S_FAS // (200i/s on Mega2560) quickest but can drop instructions
 //#define S_REL // (78i/s on Mega2560) carries out every instruction
